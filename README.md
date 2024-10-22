@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://tinyurl.com/AdityaSenPortfolio" target="_blank">aditya.tech</a>
+  <a href="https://port-folio-blue-seven.vercel.app/" target="_blank">aditya.tech</a>
 </h2>
 
 ![image](https://github.com/user-attachments/assets/c4123b62-40f2-486f-828c-cc620f128946)
