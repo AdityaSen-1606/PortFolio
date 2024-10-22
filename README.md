@@ -2,6 +2,7 @@
   Portfolio Website - v2.0<br/>
   <a href="https://port-folio-blue-seven.vercel.app/" target="_blank">aditya.tech</a>
 </h2>
+![image](https://github.com/user-attachments/assets/fd5b7e8b-0998-452e-878d-cd351953ec0d)
 
 <br/>
 
