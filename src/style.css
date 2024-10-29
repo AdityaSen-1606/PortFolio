@@ -741,3 +741,17 @@ button:focus {
 .fork-btn-inner::after {
   display: none !important;
 }
+
+.img-fluid{
+  max-height: 450px;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: transform 0.1s ease, box-shadow 0.3s ease;
+  border: 4px solid #ddd;
+}
+
+.img-fluid:hover{
+  transform: scale(1.05);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+}
